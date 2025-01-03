@@ -1,0 +1,44 @@
+The following buttons are required to be on the hardware
+
+Distinct functionality buttons: (Total: 3)
+==============================
+- Power ON/OFF button (1)
+  -------------------
+    Must be distinct and unique from other buttons. We propose using Rockers switch as ON/OFF is intuitive instead of push button or click and hold button types.
+
+- Volume UP/DOWN buttons (2)
+  ----------------------
+    Digital stepping up and down volume. Continuous pressing Volume DOWN will result in MUTE.
+
+Generic buttons: (Total: 7)
+===============
+
+- Home button (1)
+  -----------
+    Pressing it will land in Global GUI homepage.
+
+- Cancel/Back button (1)
+  ------------------
+    Will lead to previous page or exit current app.
+
+- OK/Enter/Description/Menu button (1)
+  --------------------------------
+    Will read the detailed description of a label in Description mode.
+    Will go to the next page of the selected setting.
+    Will open the app.
+    Will open the selected setting.
+    Will confirm the value entered in settings for configuration.
+
+- UP/DOWN/LEFT/RIGHT (4)
+  ------------------
+    Will navigate in the app menu.
+    Will navigate the settings menu.
+    Will navigate the global GUI menu.
+    Will navigate between options.
+    Will increment or decrement options in individual settings.
+
+Button proposals:
+================
+1. Do we need button for tutorial or help marked with a question mark '?' symbol?
+2. Do we need a button to pause/play the sounds?
+3. Do we need a separate button for Menu? Are we overloading the OK button too much?
